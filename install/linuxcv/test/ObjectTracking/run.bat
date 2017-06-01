@@ -1,0 +1,1 @@
+test.exe fg=FG_BG2 bd=BD_CC  bd:ROIScale=5.5 bd:OnlyROI=0  bd:Latency=3 bd:Clastering=3 bd:hmin=0.08  bd:wmin=0.06 bd:UseVel=1 bd:MinDistToBorder=0.8 bt=CC bt:PosVar=10  bt:SizeVar=0  btpp=Kalman bt_corr=PostProcRes  btgen=YML  btavi=s1.avi fgavi=f1.avi 1.avi
